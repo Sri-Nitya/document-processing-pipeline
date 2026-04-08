@@ -2,9 +2,10 @@ fastapi
 uvicorn
 python-multipart
 pydantic
+pymupdf
 langchain
 langgraph
 groq
 python-dotenv
+pillow
 pytesseract
-Pillow
